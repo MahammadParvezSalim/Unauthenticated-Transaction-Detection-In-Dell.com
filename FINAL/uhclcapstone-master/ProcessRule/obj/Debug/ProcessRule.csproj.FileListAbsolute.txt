@@ -1,0 +1,27 @@
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\bin\Debug\ProcessRule.exe.config
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\bin\Debug\ProcessRule.exe
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\bin\Debug\ProcessRule.pdb
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\obj\Debug\ProcessRule.csprojResolveAssemblyReference.cache
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\obj\Debug\ProcessRule.exe
+C:\Users\vuha1\AppData\Local\Temporary Projects\ProcessRule\obj\Debug\ProcessRule.pdb
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\bin\Debug\ProcessRule.exe.config
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\bin\Debug\ProcessRule.exe
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\bin\Debug\ProcessRule.pdb
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\obj\Debug\ProcessRule.csprojAssemblyReference.cache
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\obj\Debug\ProcessRule.csproj.CoreCompileInputs.cache
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\obj\Debug\ProcessRule.exe
+C:\Users\vuha\Downloads\ProcessRule\ProcessRule\obj\Debug\ProcessRule.pdb
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\bin\Debug\ProcessRule.exe.config
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\bin\Debug\ProcessRule.exe
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\bin\Debug\ProcessRule.pdb
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\obj\Debug\ProcessRule.csprojAssemblyReference.cache
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\obj\Debug\ProcessRule.csproj.CoreCompileInputs.cache
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\obj\Debug\ProcessRule.exe
+C:\Users\vuha\source\repos\WebTracker\ProcessRule\obj\Debug\ProcessRule.pdb
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\bin\Debug\ProcessRule.exe.config
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\bin\Debug\ProcessRule.exe
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\bin\Debug\ProcessRule.pdb
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\obj\Debug\ProcessRule.csprojAssemblyReference.cache
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\obj\Debug\ProcessRule.csproj.CoreCompileInputs.cache
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\obj\Debug\ProcessRule.exe
+C:\Users\Parvez\Desktop\FINAL\uhclcapstone-master\ProcessRule\obj\Debug\ProcessRule.pdb
